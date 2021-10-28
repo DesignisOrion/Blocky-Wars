@@ -24,7 +24,7 @@ Created a simple login screen using Bootstrap 5.
 ```
 ### Executing program
 
-* Live Page: 
+* Live Page: https://designisorion.github.io/Blocky-Wars/
 
 ## Help
 
